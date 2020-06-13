@@ -8,7 +8,7 @@ Hi! I'm Francisco and I'm learning Flutter. Here there are some projects that I'
 
 ## Projects of course
 
-- [Mi Card](https://github.com/franciscosft/mi-card)/
+- [Mi Card](https://github.com/franciscosft/mi-card);
 - [Tem dado em casa](https://github.com/franciscosft/tem-dado-em-casa); (Brazilian will understand the joke)
 - [O mistério da bola 8](https://github.com/franciscosft/o-misterio-da-bola-8); 
 - [Quizzler](https://github.com/franciscosft/quizzler);

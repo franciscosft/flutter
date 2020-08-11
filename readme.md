@@ -4,7 +4,7 @@ Hi! I'm Francisco and I'm learning Flutter. Here there are some projects that I'
 
 ## Course that I'm doing
 
-- The course that I'm doing to learn Flutter is: [Flutter bootcampo with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/);
+- The course that I'm doing to learn Flutter is: [Flutter bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/);
 
 ## Projects of course
 

@@ -13,6 +13,8 @@ Hi! I'm Francisco and I'm learning Flutter. Here there are some projects that I'
 - [O mistério da bola 8](https://github.com/franciscosft/o-misterio-da-bola-8); 
 - [Quizzler](https://github.com/franciscosft/quizzler);
 - [Destini](https://github.com/franciscosft/destini);
+- [BMI Calculator](https://github.com/franciscosft/BMI-calculator);
+- [Clima](https://github.com/franciscosft/clima) - developing;
 
 ## Personal Projects
 
